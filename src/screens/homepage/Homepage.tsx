@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 
-import { Title } from '../../components'
+import { Title } from 'components'
 
 const Homepage: FC = () => {
   return (
